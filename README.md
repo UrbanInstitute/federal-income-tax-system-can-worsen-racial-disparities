@@ -1,6 +1,6 @@
 # How the Federal Income Tax System Can Worsen Racial Disparities
 
-Svelte project code for a Urban Tax Policy Center [scrolly-telling explainer](https://apps.urban.org/features/federal-income-tax-system-can-worsen-racial-disparities).
+Svelte project code for a Tax Policy Center [scrolly-telling explainer](https://apps.urban.org/features/federal-income-tax-system-can-worsen-racial-disparities).
 
 ## Project credits
 
