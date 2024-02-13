@@ -1,0 +1,62 @@
+- date: 1500-01-01
+  x: .095
+  date_label: 1500s
+  title: Colonial settlement of Native American lands begins
+  orientation: bottom
+  width: 200
+
+- date: 1619-01-01
+  x: .115
+  date_label: ~1619 to 1865
+  title: Enslavement of Black people
+  orientation: top
+  width: 200
+
+- date: 1862-01-01
+  x: .325
+  date_label: 1862 to 1976
+  title: Homestead Act distributes millions of acres to White Americans
+  orientation: bottom
+  width: 200
+
+- date: 1865-01-01
+  x: .35
+  date_label: 1865
+  title: Government fails to provide 40-acre land grants to formerly enslaved people
+  orientation: top
+  width: 200
+
+- date: 1933-01-01
+  x: .55
+  date_label: 1933
+  title: The New Deal excludes agricultural and domestic employees from key programs
+  orientation: bottom
+  width: 200
+
+- date: 1934-01-01
+  x: .575
+  date_label: 1933 & 1934
+  title: The Home Owners’ Loan Corporation (1933) and Federal Housing Administration (1934) institutionalize redlining practices
+  orientation: top
+  width: 240
+
+- date: 1944-01-01
+  x: .755
+  date_label: 1944
+  title: Black World War II veterans denied GI Bill benefits
+  orientation: bottom
+  width: 180
+
+- date: 1965-01-01
+  x: .825
+  date_label: 1965
+  title: “War on Crime” declared
+  orientation: top
+  width: 180
+
+- date: 1971-01-01
+  x: .905
+  date_label: 1971
+  title: “War on Drugs” declared
+  orientation: bottom
+  width: 160
