@@ -37,7 +37,7 @@
   authors={site_content.meta.authors}
   keywords={site_content.meta.keywords}
 />
-<Navbar title={site_content.meta.title} brand="tpc" projectUrl="https://urban.org" sticky />
+<Navbar title={site_content.meta.title} brand="tpc" projectUrl={site_content.meta.url} sticky />
 <main>
   {#each site_content.content as block}
     {#if block.type === "text"}
