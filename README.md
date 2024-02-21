@@ -18,9 +18,6 @@ Data Visualization and Development: Mitchell Thorson
 
 Production: https://apps.urban.org/features/federal-income-tax-system-can-worsen-racial-disparities
 
-## Development requirements
-
-
 ## Data notes
 
 Source data files for the charts included in this project are in the `data/source` folder. There is a simple transformation script that formats some of this data for the front end in `data/scripts/convert_data.R`.
