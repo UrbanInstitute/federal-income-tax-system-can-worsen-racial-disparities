@@ -64,5 +64,3 @@ npm run preview
 
 and opening your browser to: [http://localhost:4173](http://localhost:4173)
 
-Note: The output of `npm run build` is ephemeral, no need to run it before committing. CircleCI is running the build step and then uploading the output to the server.
-
